@@ -1,6 +1,5 @@
 {
   "name": "thirdtestapp",
-  "homepage": "https://holidaystripper.com/reactfirstapp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
